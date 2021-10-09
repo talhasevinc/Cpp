@@ -1,0 +1,11 @@
+﻿  AES128Bits.cpp
+G:\GithubProje\C++\AES128Bits\AES128Bits\AES128Bits.cpp(122,7): warning C4101: 'userChar': yerel değişken başvurusu kaldırıldı
+G:\GithubProje\C++\AES128Bits\AES128Bits\AES128Bits.cpp(251,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+G:\GithubProje\C++\AES128Bits\AES128Bits\AES128Bits.cpp(287,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+G:\GithubProje\C++\AES128Bits\AES128Bits\AES128Bits.cpp(472,30): warning C4101: 'trans3': yerel değişken başvurusu kaldırıldı
+G:\GithubProje\C++\AES128Bits\AES128Bits\AES128Bits.cpp(472,22): warning C4101: 'trans2': yerel değişken başvurusu kaldırıldı
+G:\GithubProje\C++\AES128Bits\AES128Bits\AES128Bits.cpp(640,20): warning C4101: 'temp2': yerel değişken başvurusu kaldırıldı
+G:\GithubProje\C++\AES128Bits\AES128Bits\AES128Bits.cpp(640,27): warning C4101: 'temp3': yerel değişken başvurusu kaldırıldı
+G:\GithubProje\C++\AES128Bits\AES128Bits\AES128Bits.cpp(640,6): warning C4101: 'temp0': yerel değişken başvurusu kaldırıldı
+G:\GithubProje\C++\AES128Bits\AES128Bits\AES128Bits.cpp(640,13): warning C4101: 'temp1': yerel değişken başvurusu kaldırıldı
+  AES128Bits.vcxproj -> G:\GithubProje\C++\AES128Bits\Debug\AES128Bits.exe

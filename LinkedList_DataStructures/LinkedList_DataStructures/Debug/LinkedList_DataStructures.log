@@ -1,0 +1,8 @@
+﻿  PhoneList.cpp
+G:\GithubProje\C++\LinkedList_DataStructures\LinkedList_DataStructures\PhoneList.cpp(696,34): warning C4834: 'nodiscard' özniteliği içeren işlevin dönüş değeri atılıyor
+G:\GithubProje\C++\LinkedList_DataStructures\LinkedList_DataStructures\PhoneList.cpp(700,34): warning C4834: 'nodiscard' özniteliği içeren işlevin dönüş değeri atılıyor
+G:\GithubProje\C++\LinkedList_DataStructures\LinkedList_DataStructures\PhoneList.cpp(704,34): warning C4834: 'nodiscard' özniteliği içeren işlevin dönüş değeri atılıyor
+G:\GithubProje\C++\LinkedList_DataStructures\LinkedList_DataStructures\PhoneList.cpp(709,40): warning C4834: 'nodiscard' özniteliği içeren işlevin dönüş değeri atılıyor
+G:\GithubProje\C++\LinkedList_DataStructures\LinkedList_DataStructures\PhoneList.cpp(713,40): warning C4834: 'nodiscard' özniteliği içeren işlevin dönüş değeri atılıyor
+G:\GithubProje\C++\LinkedList_DataStructures\LinkedList_DataStructures\PhoneList.cpp(717,40): warning C4834: 'nodiscard' özniteliği içeren işlevin dönüş değeri atılıyor
+  LinkedList_DataStructures.vcxproj -> G:\GithubProje\C++\LinkedList_DataStructures\Debug\LinkedList_DataStructures.exe

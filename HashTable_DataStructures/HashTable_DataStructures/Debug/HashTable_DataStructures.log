@@ -1,0 +1,5 @@
+﻿  PhoneList.cpp
+G:\GithubProje\C++\HashTable_DataStructures\HashTable_DataStructures\PhoneList.cpp(277,18): warning C4101: 'secim': yerel değişken başvurusu kaldırıldı
+G:\GithubProje\C++\HashTable_DataStructures\HashTable_DataStructures\PhoneList.cpp(309,18): warning C4101: 'secim': yerel değişken başvurusu kaldırıldı
+G:\GithubProje\C++\HashTable_DataStructures\HashTable_DataStructures\PhoneList.cpp(88): warning C4715: 'return_ch': tüm denetim yolları değer döndürmez
+  HashTable_DataStructures.vcxproj -> G:\GithubProje\C++\HashTable_DataStructures\Debug\HashTable_DataStructures.exe
