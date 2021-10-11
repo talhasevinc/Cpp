@@ -4,3 +4,5 @@ AES stands for "Advanced Encryption Standard" and can be translated into Turkish
 The basis of AES is based on the replacement-scrambling design. The data to be transmitted is passed through the necessary encryption layers and is basically transformed into an unreadable, meaningless data set. These encryption operations are performed according to a certain key matrix. The receiving side, after receiving the data, needs a key to decrypt it and return it to its meaningful form. This key must be the same as the key with which the data is encrypted. In this way, the receiving side will obtain the data when the steps applied in the encryption process are applied in the opposite direction.
 
 There are two important structures in the AES encryption process. The first of these is the SBOX matrices used for inverse and straight transformations. These matrices are custom made. The second is the 4x4 key matrix. This matrix is ​​common between the receiver and transmitter and can be chosen as desired.
+
+NOTE: If you change key matris, you have to call keyExtension() function firstly. Because I defined all key values at first section.
